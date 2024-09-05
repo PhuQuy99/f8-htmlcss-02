@@ -175,7 +175,7 @@
     font-family: "Sen";
     src: url("Sen/Sen-Bold.woff2") format("woff2"),
         url("Sen/Sen-Bold.woff") format("woff");
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
@@ -193,7 +193,7 @@
     font-family: "Sen";
     src: url("Sen/Sen-ExtraBold.woff2") format("woff2"),
         url("Sen/Sen-ExtraBold.woff") format("woff");
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
@@ -202,7 +202,7 @@
     font-family: "Sen";
     src: url("Sen/Sen-Regular.woff2") format("woff2"),
         url("Sen/Sen-Regular.woff") format("woff");
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
